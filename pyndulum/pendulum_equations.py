@@ -2,6 +2,7 @@
 
 import numpy as np
 
+# Added only enonly enonly energy calculation
 
 def get_period(len: float) -> float:
     """
